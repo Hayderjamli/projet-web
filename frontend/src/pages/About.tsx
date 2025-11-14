@@ -213,7 +213,7 @@ export default function About() {
             className="rounded-2xl p-6 bg-card border border-primary/20 shadow-md hover:shadow-xl transition-all"
           >
             <h4 className="font-semibold text-card-foreground mb-2">Multi-language Support</h4>
-            <p className="text-muted-foreground">Access Interview in English, French, or Arabic.</p>
+            <p className="text-muted-foreground">Access Interview in English or French.</p>
           </motion.div>
         </div>
       </section>
